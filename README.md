@@ -1,2 +1,3 @@
 # bokeh
-bokeh with css animation
+
+css bokeh animation
